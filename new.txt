@@ -1,7 +1,6 @@
 add a line
 add a second line done
-<<<<<<< HEAD
+
 add a line by user-1
-=======
-add user2 line
->>>>>>> cba74990ef358242fe4838510a312c65d3064c68
+
+second conflict by user-1
